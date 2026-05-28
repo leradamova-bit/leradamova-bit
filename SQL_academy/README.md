@@ -10,6 +10,7 @@
 
 <img width="786" height="650" alt="CASE WHEN" src="https://github.com/user-attachments/assets/d9a97272-4aa5-432f-bea2-0aa2258ddb32" />
 
+<img width="763" height="584" alt="Агрегат+оконная " src="https://github.com/user-attachments/assets/b95a435d-9f87-44a2-bb37-fbe6e2cce710" />
 
 
 
